@@ -7,21 +7,22 @@
     <title>Weather App</title>
 </head>
 <body>
-    <header>
-        <h1>Weather App</h1>
+    <header class="project-title">
+        <h1 class="title">Weather App</h1>
     </header>
     <div class="weather-app">
         <div class="weather-box">
-            <h2 id="city">Search a city</h2>
             <div class="weather-info">
-                <h1 id="temp"></h1>
-                <img id="myImg" src="" alt="">
+                <h2 id="city" class="city-text">Search a city</h2>
+                <h1 id="temp" class="temp-text"></h1>
+                <img class="weather-icon" id="myImg" src="" alt="">
+                <p class="desc-text" id="desc"></p>
             </div>
         </div>
     </div>
     <footer class="weather-search">
-        <input id="cityInput" type="text" placeholder="Enter a city">
-        <button id="findCity">Find</button>
+        <input class="city-input" id="cityInput" type="text" placeholder="Enter a city">
+        <button class="find-city" id="findCity">Search</button>
     </footer>
     <script src="./weather.js"></script>
 </body>
