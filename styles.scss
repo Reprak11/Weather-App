@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
 
-
-
 $text-color: #fffffff8;
 $input-bg-color: #fff;
 $input-text-color: #a3a3a3;
@@ -114,6 +112,19 @@ body{
         cursor: pointer;
     }
 }
+
+@media only screen and (max-width:570px){
+    .weather-app{
+        .weather-box{
+            .weather-info{
+                .temp-text{
+                    font-size: 85px;
+                }
+            }
+        }
+    }
+}
+
 @media only screen and (min-width:1024px){
     .weather-search{
         .city-input{

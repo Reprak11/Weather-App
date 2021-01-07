@@ -146,6 +146,12 @@ body {
   cursor: pointer;
 }
 
+@media only screen and (max-width: 570px) {
+  .weather-app .weather-box .weather-info .temp-text {
+    font-size: 85px;
+  }
+}
+
 @media only screen and (min-width: 1024px) {
   .weather-search .city-input {
     width: 30%;
