@@ -36,8 +36,8 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 - [OpenWeatherMap API](https://openweathermap.org/api) - Fast and easy-to-work weather APIs for free.
 - [SASS](http://getbootstrap.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
-- HTML
-- JavaScript
+- [HTML](https://www.w3schools.com/html/)
+- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 
 © [Reynaldo Armenta ](https://github.com/Reprak11)
