@@ -1,5 +1,5 @@
 # ![Weather App](https://github.com/Reprak11/Weather-App/blob/main/assets/weather-app.PNG)
-# Weather APP
+# Weather App
 <table>
 <tr>
 <td>
