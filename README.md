@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-  A weather app using OpenWeather API to display the current weather of a city. To use the app you only have to type the name of a city and press the search button or also you can press the enter key of your keyboard.
+  A weather app using OpenWeatherMap API to display the current weather of a city. To use the app you only have to type the name of a city and press the search button or also you can press the enter key of your keyboard.
 </td>
 </tr>
 </table>
@@ -34,7 +34,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Built with 
 
-- [Google Chart API](https://openweathermap.org/api) - Fast and easy-to-work weather APIs for free.
+- [OpenWeatherMap API](https://openweathermap.org/api) - Fast and easy-to-work weather APIs for free.
 - [SASS](http://getbootstrap.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 - HTML
 - JavaScript
